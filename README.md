@@ -19,7 +19,7 @@ Manfred	Laublicher	ASU
 
 Frédéric Brechenmacher	Ecole polytechnique
 
-David	Sepkoski	MPIWG
+David	Sepkoski	MPIWG--Berlin
 
 Evan Hepler-Smith	Princeton
 
@@ -30,3 +30,5 @@ Joanna Radin	Yale
 Dennis Tenen	Columbia
 
 Arunabh	Ghosh	Harvard
+
+Alex Wellerstein	Stevens
