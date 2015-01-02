@@ -32,3 +32,5 @@ Dennis Tenen	Columbia
 Arunabh	Ghosh	Harvard
 
 Alex Wellerstein	Stevens
+
+Janet Vertesi   Princeton
