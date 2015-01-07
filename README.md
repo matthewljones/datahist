@@ -34,3 +34,7 @@ Arunabh	Ghosh	Harvard
 Alex Wellerstein	Stevens
 
 Janet Vertesi   Princeton
+
+Megan Finn   Washington
+
+Matthew Jones Columbia
