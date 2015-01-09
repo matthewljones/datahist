@@ -11,30 +11,18 @@ Younger scholars and scholars of areas and topics unrepresented in the history o
 
 ###Confirmed participants
 
-Martha Poon	Institute for Data & Society
+Martha Poon	Institute for Data & Society | Patrick McCray	UCSB
 
-Patrick McCray	UCSB
+Manfred	Laublicher	ASU | Frédéric Brechenmacher	Ecole polytechnique
 
-Manfred	Laublicher	ASU
+David	Sepkoski	MPIWG--Berlin | Evan Hepler-Smith	Princeton
 
-Frédéric Brechenmacher	Ecole polytechnique
+Henry	Cowles	Yale | Joanna Radin	Yale
 
-David	Sepkoski	MPIWG--Berlin
+Dennis Tenen	Columbia | Arunabh	Ghosh	Harvard
 
-Evan Hepler-Smith	Princeton
+Alex Wellerstein	Stevens | Janet Vertesi   Princeton
 
-Henry	Cowles	Yale
+Megan Finn   Washington | Fred Gibbs  New Mexico
 
-Joanna Radin	Yale
-
-Dennis Tenen	Columbia
-
-Arunabh	Ghosh	Harvard
-
-Alex Wellerstein	Stevens
-
-Janet Vertesi   Princeton
-
-Megan Finn   Washington
-
-Matthew Jones Columbia
+Matthew Jones Columbia | Karen Levy   NYU
