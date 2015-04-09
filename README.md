@@ -5,9 +5,10 @@ With the support of the Sloan Foundation, the workshop  “History of Data / Dat
 
 Historians of data offer greater analytical purchase on the limitations and dangers of the collection and analysis of different forms of data. They likewise serve as a powerful correction to historical myopia about “big data” today. Data-focused computational historians work with techniques well-suited to the volume of historical records often common in the last two centuries and illuminating applied to traditional historical sources such as learned correspondence. This workshop aims to foster a greater critical literacy around data by drawing together these two sets of competencies that too rarely overlap. This workshop would critically examine the techniques for the study of historical evidence and the creation of histories of large-scale objects previously resistant to more traditional methods within the history of science by pushing the start of art of tools in computational history.  It will drawup on the critical acuity central to the history of science and technology to help refine our computational tools; better to understand their limits; and to improve upon them. The goal is not simply mutual critique, but the sharpening of tools and methodologies, qualitative and quantitative.
 
-Participants will contribute a pre-circulated paper anywhere from 15 to 50 pages; this paper ideally would be what you consider your most salient work, that you feel would benefit from an intense intellectual exchange.
+Anyone wishing to attend the workshop should email mjones@columbia.edu . Attendees should try to read the papers in advance.
 
-###Schedule
+
+###Preliminary Schedule
 Friday April 17	
 
 	9-9:30	Hallem Stevens		NU Singapore	Data Culture: Historical Methods for the Digital Age 
@@ -32,7 +33,7 @@ Friday April 17
 		
 	3-3:30	Coffee break			
 
-	3:30-4	Megan Finn			UW			"I am so anxious to hear": Accounting for people after the 1906 earthquake 
+	3:30-4	Megan Finn			UW	"I am so anxious to hear": Accounting for people after the 1906 earthquake 
 
 	4-4:30	Henry Cowles	Yale			Big Methods: William Whewell, Charles Peirce, and the Logic of Science
 
